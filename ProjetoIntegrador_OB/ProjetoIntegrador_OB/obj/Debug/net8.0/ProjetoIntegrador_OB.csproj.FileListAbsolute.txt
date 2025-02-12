@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\bin\Debug\net8.0\ProjetoIntegrador_OB.exe
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\bin\Debug\net8.0\ProjetoIntegrador_OB.deps.json
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\bin\Debug\net8.0\ProjetoIntegrador_OB.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\bin\Debug\net8.0\ProjetoIntegrador_OB.dll
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\bin\Debug\net8.0\ProjetoIntegrador_OB.pdb
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\ProjetoIntegrador_OB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\ProjetoIntegrador_OB.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\ProjetoIntegrador_OB.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\ProjetoIntegrador_OB.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\ProjetoIntegrador_OB.sourcelink.json
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\ProjetoIntegrador_OB.dll
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\refint\ProjetoIntegrador_OB.dll
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\ProjetoIntegrador_OB.pdb
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\ProjetoIntegrador_OB.genruntimeconfig.cache
+C:\Users\Vinicius\Desktop\Material para estudo\Projeto_OB\ProjetoIntegrador_OB\ProjetoIntegrador_OB\obj\Debug\net8.0\ref\ProjetoIntegrador_OB.dll
