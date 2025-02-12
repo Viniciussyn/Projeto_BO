@@ -1,3 +1,5 @@
 git rm --cached ProjetoIntegrador_OB/.vs/ProjetoIntegrador_OB/FileContentIndex/72e6963b-25b1-4b8a-8856-89a502f9597f.vsidx
 
 git rm --cached ProjetoIntegrador_OB/.vs/ProjetoIntegrador_OB/FileContentIndex/d3c4b0c9-04a2-4162-bc9f-ca2872329367.vsidx
+
+git rm --cached .vs
