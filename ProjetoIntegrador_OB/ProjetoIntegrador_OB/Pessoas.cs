@@ -4,17 +4,37 @@ namespace ProjetoIntegrador_OB
 {
     public class Pessoas
     {
-        public int idade { get; private set; }
-        public string nome { get; private set; }
+        private int idade { get; set; }
+        private string nome { get; set; }
 
         /*-----------------------------------------*/
 
         public Pessoas(int Idade , string Nome)
         {
-            nome = Nome;
+
+            nome =  Nome;
+
             idade = Idade;
         }
 
+        public int GetIdade()
+        {
+            return idade;
+        }
+
+        public string SetNome()
+        {
+            return nome;
+        }
+
+        public override string ToString()
+        {
+            return "O aluno " +
+                SetNome() +
+                " possui " +
+                GetIdade() +
+                " de idade.";
+        }
 
     }
 }

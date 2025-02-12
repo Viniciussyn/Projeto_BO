@@ -7,9 +7,15 @@ namespace ProjetoIntegrador_OB
     {
         static void Main(string[] args)
         {
-            Pessoas x = new Pessoas(26 , "Vinicius Silva Soares");
+            Pessoas Aluno1;
+            Console.Write("Digite a idade do aluno: ");
+            int idade = int.Parse(Console.ReadLine());
+            Console.Write("Digite o nome do aluno: ");
+            string nome = Console.ReadLine();
+            
+            Aluno1 = new Pessoas(idade , nome);
 
-            Console.WriteLine();
+            Console.WriteLine(Aluno1);
 
 
         }
